@@ -1,18 +1,19 @@
 # News Site
 
-My newsite is about plants, because I love plants. 
+My newsite is about plants, because I love plants.
 
 ## The problem
 
-I had some problems with the tags, I was getting lost and forget to close some tags, and hence the outcom was not as I wished. So I went throug it again.
+As I was developing the project, I encountered some challenges with the HTML tags, particularly with forgetting to properly close certain tags, which resulted in an unexpected output. To address this, I meticulously reviewed the markup to ensure everything was correctly structured.
 
-Anothe issue I had with the pictures. I wasn´t able to manipulate the size in CSS so I decide to do it in HTML.
+I also faced difficulties in manipulating image sizes through CSS, leading me to adjust these dimensions directly in the HTML.
 
-I wanted to make some nice caption but for some reason, it didn´t worked. When I was trying the same language in Code Pen, there it was working but not here. So I gave up on it. 
+Additionally, I aimed to implement some captions for the images, but encountered issues that prevented this from functioning as intended. Interestingly, the same code worked seamlessly in CodePen, which indicated that the problem was specific to my current environment. After several attempts to troubleshoot, I decided to prioritize other aspects of the project.
 
-I used a lot CodePen as a side project where I can test out things. 
+Throughout the development process, I extensively utilized CodePen as a testing ground for various concepts and features.
 
-If I would have more time and patience, probably I would work more on getting the design I want it with the some extra features.
+Given more time and patience, I would dedicate additional effort to refine the design further and incorporate extra features to enhance the overall user experience.
 
 ## View it live
+
 ecobloomnews.netlify.app
