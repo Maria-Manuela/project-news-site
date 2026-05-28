@@ -1,7 +1,7 @@
 html {
   background: #d8e4bc;
   color: black;
-  .webkit-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
 }
 
 * {
@@ -86,6 +86,7 @@ body {
   margin: 0 auto;
   padding: 0 20px;
 }
+
 .main-news-container {
   grid-column: span 2;
   /*   object-fit: cover;
@@ -129,12 +130,12 @@ body {
   transform: scale(1.05);
 }
 
-.main-news-text h2 {
+.main-news-text {
   margin-top: 0;
   font-size: 24px;
 }
 
-.main-news-text p {
+.main-news-text {
   /* Limit the width of the text*/
   margin: 0 auto;
   font-family: Georgia, "Times New Roman", Times, serif;
@@ -254,9 +255,6 @@ footer {
     font-size: 10px;
   }
 
-  .main-news-text h2 {
-    font-size: 10px;
-  }
 
   .main-news p {
     display: none;
@@ -287,7 +285,7 @@ footer {
 }
 
 @media screen and (min-width: 768px) and (max-width: 1199px) {
-  /* Tablet syles - 2 columns */
+  /* Tablet styles - 2 columns */
 
   .navbar {
     flex-direction: column;
