@@ -49,6 +49,22 @@
     margin-bottom: 16px;
 }
 
+.blog-content ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.blog-content.show-bullets ul {
+    list-style: disc;
+    padding-left: 20px;
+    text-align: left;
+}
+
+.blog-content.show-bullets ul li::marker {
+    color: #4CAF50;;
+    font-size: 1.2em;
+}
+
 .blog-author {
     font-family: Arial, sans-serif;
     font-size: 14px;
