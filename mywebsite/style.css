@@ -326,6 +326,60 @@ body {
   color: #2f5e28;
 }
 
+.contact-confirmation h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 28px;
+  color: #2f5e28;
+  margin-bottom: 12px;
+}
+
+.contact-success {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.contact-overview {
+  background-color: #fafdf7;
+  border: 1px solid #c8d4b8;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 20px;
+}
+
+.contact-overview h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 20px;
+  color: #2f5e28;
+  margin-bottom: 12px;
+}
+
+.contact-overview dl {
+  margin: 0;
+}
+
+.contact-overview dt {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: #2f5e28;
+  margin-top: 12px;
+}
+
+.contact-overview dt:first-child {
+  margin-top: 0;
+}
+
+.contact-overview dd {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #1f1f1f;
+  margin: 4px 0 0;
+  white-space: pre-wrap;
+}
+
 article {
   margin: 0 auto;
   text-align: center;
